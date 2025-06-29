@@ -6,7 +6,7 @@ This is my personal portfolio website built using **Bolt**, showcasing my work, 
 
 ## 🔗 Live Demo
 
-👉 [View My Portfolio](https://github.com/Asifkrahim/portfolio-project)
+👉 [View My Portfolio](https://fantastic-vacherin-b0759c.netlify.app/)
 
 ##Features
 -About me section
